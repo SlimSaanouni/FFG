@@ -1,0 +1,2 @@
+# FFG
+Financial Forecast Generator
